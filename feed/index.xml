@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Acid7.Support</title>
-	<atom:link href="https://acid7.studio/sphere-docs/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://acid7.github.io/sphere-docs/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Theme Documentation</description>
 	<lastBuildDate>Wed, 28 Apr 2021 08:56:25 +0000</lastBuildDate>
